@@ -1,6 +1,6 @@
 
 
-This is one of two repositories created for my portfolio website <a href="https://github.com/KubanjaElijahEldred"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/KubanjaElijahEldred"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:kubanjelijah2037@gmail.com">henryheffernan@gmail.com</a></samp> 
+
 To setup a dev environment:
 
 ```bash
